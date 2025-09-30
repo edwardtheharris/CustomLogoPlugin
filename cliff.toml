@@ -8,11 +8,8 @@
 header = """
 ---
 abstract: All notable changes to this project will be documented in this file.
-authors:
-  - name: Xander Harris
-    email: xandertheharris@gmail.com
 date: 2025-09-07
-title: Breeze Blocks Helm Repository Changelog
+title: CustomLogoPlugin
 ---\n
 """
 # A Tera template to be rendered for each release in the changelog.

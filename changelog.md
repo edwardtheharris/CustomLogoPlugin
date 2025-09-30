@@ -10,9 +10,26 @@ title: CustomLogoPlugin
 ### 💼 Other - [unreleased]
 
 
+- Fix manifest
+- Closes #6
+- Merge pull request #7 from edwardtheharris/6-fix-manifest
+- Fix manifest
+- Closes #6
+## [1.0.1] - 2025-09-30
+
+### 💼 Other - v1.0.1
+
+
 - Update manifest, do new release
 - Closes #4
 - Update changelog
+- Closes #4
+- Update changelog, header
+- Closes #4
+- Update manifest
+- Closes #4
+- Merge pull request #5 from edwardtheharris/4-update-manifest-for-zip
+- 4 update manifest for zip
 - Closes #4
 ## [1.0.0] - 2025-09-30
 

@@ -1,5 +1,6 @@
 node_modules/
 reflog
+*.zip
 dist/
 .vs/
 bin/

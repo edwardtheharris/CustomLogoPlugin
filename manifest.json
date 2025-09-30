@@ -18,8 +18,8 @@
 			{
 				"version": "1.0.0",
 				"targetAbi": "10.10.0.0",
-				"sourceUrl": "https://github.com/edwardtheharris/CustomLogoPlugin/archive/refs/tags/v1.0.0.zip",
-				"checksum": "d026126bede7c33e6c26c3ae826a8f774e140319c57b38b7bd50ff3ba3890b55",
+				"sourceUrl": "https://github.com/edwardtheharris/CustomLogoPlugin/releases/download/v1.0.0/v1.0.0.zip",
+				"checksum": "sha256:ac1265531302b2ef5dc2abef61670c2024bca2f534b27b9c7f97838b9c218de4",
 				"timestamp": "2025-04-30T23:00:00Z"
 			}
 		]
